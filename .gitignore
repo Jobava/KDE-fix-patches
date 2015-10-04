@@ -1,0 +1,6 @@
+dist
+patches
+patches-fixed
+*~
+*#
+*.class

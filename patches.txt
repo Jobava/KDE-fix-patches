@@ -1,0 +1,7 @@
+https://github.com/Jobava/kde-localization/commit/e5856a4953293d526a21ab1d7b26e4eb9b15589b.patch
+https://github.com/Jobava/kde-localization/commit/ac347b86bfd68f6e4889412d49c267bb9359b50b.patch
+https://github.com/Jobava/kde-localization/commit/932452ea464e46da325fd2fcfd1bbed2a4b009b0.patch
+https://github.com/Jobava/kde-localization/commit/b76fcb3c643b62719d2bc9620544f772a4b60008.patch
+https://github.com/Jobava/kde-localization/commit/1a915adc35e099365452af4dee1bfa24606ec016.patch
+https://github.com/Jobava/kde-localization/commit/ab1d984ea3306fb6a97af4c081054dae84fa2571.patch
+https://github.com/Jobava/kde-localization/commit/2867bfe9e74aaaaccab67161e7b4dcd92ce05737.patch

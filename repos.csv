@@ -1,0 +1,10 @@
+reponame,repourl
+kdelibs4/apps,svn://anonsvn.kde.org/home/kde/trunk/l10n-kde4/ro/messages
+kdelibs4/doc,svn://anonsvn.kde.org/home/kde/trunk/l10n-kde4/ro/docmessages
+stable-kdelibs4/apps,svn://anonsvn.kde.org/home/kde/branches/stable/l10n-kde4/ro/messages
+stable-kdelibs4/doc,svn://anonsvn.kde.org/home/kde/branches/stable/l10n-kde4/ro/docmessages
+kf5/apps,svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5/ro/messages
+kf5/doc,svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5/ro/docmessages
+stable-kf5/apps,svn://anonsvn.kde.org/home/kde/branches/stable/l10n-kf5/ro/messages
+stable-kf5/doc,svn://anonsvn.kde.org/home/kde/branches/stable/l10n-kf5/ro/docmessages
+
